@@ -1,5 +1,5 @@
 ##The effect of confounders between female and male patients, 
-##wilcox.test used for continous features, chisq.test used for discrete features.
+##wilcox.test used for continous features, fihser.test used for discrete features.
 options(stringsAsFactors = F)
 library(magrittr)
 
@@ -24,7 +24,7 @@ lapply(cancerNames,function(x){
     Discrete <- data[,c("gender",colnames(data)[colnames(data) %in% DiscreteFeatures])]
     DiscreteP <- data.frame()
     for(i in colnames(Discrete)[-1]){
-      DiscreteP <- rbind(DiscreteP,data.frame(Feature=i,pvalue= chisq.test(table(Discrete[,c("gender",i)]),simulate.p.value = TRUE)$p.value))
+      DiscreteP <- rbind(DiscreteP,data.frame(Feature=i,pvalue= fisher.test(table(Discrete[,c("gender",i)]),simulate.p.value = TRUE)$p.value))
     }
     FeatureP <- rbind(ContinousP,DiscreteP)
     FeatureP$cancer_types <- rep(x,length(colnames(data)[colnames(data) %in% c(DiscreteFeatures,ContinousFeatures)]))
