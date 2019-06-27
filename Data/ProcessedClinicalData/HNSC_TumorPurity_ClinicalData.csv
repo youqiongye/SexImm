@@ -1,0 +1,493 @@
+barcode,age_at_initial_pathologic_diagnosis,Purity,gender,race,pathologic_stage,histological_type,tobacco_smoking_history
+TCGA-4P-AA8J,66,0.25,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BA-4074,69,0.51,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-4075,49,0.7,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-4076,39,0.84,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-4077,45,0.68,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-4078,83,0.85,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-5149,47,0.58,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-5152,56,0.19,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BA-5153,51,0.78,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BA-5555,54,0.57,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-5556,58,0.31,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-5557,41,0.23,FEMALE,Other,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BA-5558,65,0.41,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BA-5559,71,0.58,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BA-6868,53,0.79,MALE,BLACK OR AFRICAN AMERICAN,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-6869,62,0.6,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-6870,60,0.43,FEMALE,BLACK OR AFRICAN AMERICAN,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-6871,75,0.78,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-6873,28,0.55,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-7269,61,0.65,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-A4IF,59,0.44,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-A4IG,77,0.58,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BA-A4IH,57,0.9,MALE,WHITE,Other,HeadNeckSquamousCellCarcinomaBasaloidType,Other
+TCGA-BA-A4II,46,0.23,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BA-A6D8,59,0.67,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-A6DA,41,0.45,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-A6DD,44,0.11,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-A6DE,70,0.64,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BA-A6DG,49,0.1,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BA-A6DI,62,0.18,MALE,BLACK OR AFRICAN AMERICAN,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BA-A6DJ,62,0.55,MALE,ASIAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BA-A6DL,59,0.44,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BA-A8YP,50,0.74,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BB-4217,68,0.13,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-4223,48,0.67,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BB-4224,52,0.8,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BB-4227,66,0.88,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BB-4228,50,0.95,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-7861,56,0.21,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-7862,67,0.76,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-7863,43,0.47,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BB-7864,61,0.65,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-7866,40,0.72,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-7871,64,0.55,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-7872,63,0.33,MALE,ASIAN,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-BB-8596,69,0.16,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-8601,84,0.87,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-BB-A5HU,47,0.51,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BB-A5HY,64,0.65,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BB-A5HZ,65,0.49,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BB-A6UM,52,0.88,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-BB-A6UO,61,0.56,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-C9-A47Z,72,0.82,FEMALE,ASIAN,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-C9-A480,45,0.35,FEMALE,ASIAN,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-4722,61,0.12,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4723,67,0.52,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4725,60,0.79,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-4726,68,0.25,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4727,56,0.57,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4728,56,0.51,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4729,73,0.39,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4730,62,0.59,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4731,63,0.86,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4733,61,0.6,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-4735,52,0.69,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4736,70,0.3,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4737,19,0.59,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-4738,53,0.22,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4739,71,0.42,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4740,79,0.18,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4741,75,0.79,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-4742,48,0.42,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5355,64,0.23,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5356,56,0.51,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5359,59,0.21,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5360,68,0.36,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5363,48,0.42,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5365,38,0.56,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5366,51,0.18,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5367,60,0.82,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5369,90,0.14,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5370,78,0.38,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5373,55,0.22,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-5374,56,0.54,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6010,53,0.7,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6011,57,0.77,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6012,66,0.58,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6013,56,0.29,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-6016,64,0.72,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6017,55,0.99,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-6018,85,0.26,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-6020,58,0.34,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6021,63,0.55,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6022,49,0.52,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6023,73,0.38,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-6024,66,0.71,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6988,47,0.81,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6989,64,0.9,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6992,61,0.73,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6994,67,0.68,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-6995,78,0.55,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6996,58,0.46,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CN-6997,66,0.83,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-6998,53,0.66,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A497,63,0.65,MALE,Other,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A498,61,0.53,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A499,60,0.6,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A49A,60,0.65,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A49B,71,0.66,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A49C,67,0.82,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A63T,60,0.45,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A63U,50,0.71,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A63V,59,0.31,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A63W,48,0.75,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A641,47,0.68,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A642,57,0.69,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CN-A6UY,57,0.86,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A6V1,59,0.17,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A6V3,61,0.43,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A6V6,59,0.58,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CN-A6V7,40,0.92,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CQ-5323,82,0.74,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-5324,59,0.7,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-5325,65,0.15,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-5326,67,0.25,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-5327,61,0.43,FEMALE,ASIAN,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-5329,46,0.61,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-5330,69,0.51,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-5331,73,0.23,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-5332,87,0.76,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-5333,74,0.29,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-5334,87,0.24,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-6218,52,0.23,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-6220,69,0.45,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-6221,79,0.64,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-6223,69,0.65,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-6224,52,0.36,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-6225,65,0.82,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-6227,77,0.19,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-6228,71,0.84,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-6229,61,0.15,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-7063,59,0.21,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-7065,40,0.74,MALE,ASIAN,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-7067,75,0.5,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CQ-7068,80,0.65,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-7069,77,0.4,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-7071,76,0.55,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-7072,51,0.43,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CQ-A4C6,63,0.32,MALE,ASIAN,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-A4C7,88,0.39,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-A4C9,56,0.64,MALE,Other,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-A4CA,#N/A,0.19,MALE,Other,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-A4CB,59,0.23,MALE,Other,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-A4CD,69,0.23,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-A4CE,76,0.19,FEMALE,Other,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-A4CG,78,0.77,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CQ-A4CH,58,0.12,MALE,ASIAN,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CQ-A4CI,73,0.78,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinomaBasaloidType,Smoker
+TCGA-CR-5243,51,0.86,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-5247,48,0.7,MALE,BLACK OR AFRICAN AMERICAN,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-5248,53,0.22,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-5249,35,0.68,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-5250,71,0.87,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6470,38,0.5,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-6471,58,0.56,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6472,59,0.86,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-6473,68,0.92,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6474,51,0.21,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6477,56,0.39,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-6478,66,0.21,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6480,53,0.75,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-6481,47,0.2,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-6482,62,0.35,MALE,BLACK OR AFRICAN AMERICAN,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6484,67,0.18,FEMALE,ASIAN,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-6487,50,0.3,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6488,68,0.37,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-6491,60,0.73,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6492,78,0.14,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-6493,69,0.84,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7364,66,0.54,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7365,60,0.68,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7367,52,0.55,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7368,54,0.7,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7369,59,0.48,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7370,72,0.8,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7371,45,0.6,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7372,45,0.49,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7373,66,0.57,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7374,67,0.62,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7376,83,0.14,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7377,58,0.17,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7379,78,0.63,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7382,49,0.99,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7383,79,0.43,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7385,42,0.22,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7386,69,0.23,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7388,70,0.35,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7389,55,0.44,MALE,BLACK OR AFRICAN AMERICAN,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7390,67,0.6,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7391,36,0.99,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7392,67,0.14,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7393,26,0.62,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7394,70,0.16,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7395,80,0.13,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CR-7397,44,0.18,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7399,60,0.59,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7401,64,0.19,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7402,68,0.66,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CR-7404,53,0.22,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-5430,61,0.69,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-5431,73,0.95,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5432,68,0.66,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5434,60,0.7,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-5435,57,0.77,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5436,65,0.76,MALE,Other,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5439,62,0.58,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5440,52,0.81,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5441,58,0.74,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5442,76,0.88,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5443,63,0.57,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5444,64,0.37,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5966,63,0.42,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5970,59,0.47,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5971,60,0.8,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5973,62,0.81,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-5976,50,0.51,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5977,66,0.76,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5978,53,0.65,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-5979,26,0.92,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6003,50,0.66,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6433,57,0.7,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6436,62,0.39,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6441,60,0.83,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6933,53,0.62,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6934,66,0.52,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6935,67,0.76,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6936,68,0.61,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6937,71,0.37,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6938,87,0.16,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6939,60,0.44,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6940,80,0.74,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6941,51,0.68,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6942,73,0.29,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6943,74,0.16,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6945,41,0.57,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6948,79,0.82,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-6950,64,0.63,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6951,57,0.75,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6952,65,0.55,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6953,80,0.4,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6954,59,0.58,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6955,74,0.41,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6956,67,0.72,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6959,48,0.48,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-6960,49,0.67,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6961,61,0.52,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-6962,65,0.79,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7089,74,0.19,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7090,39,0.34,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7091,54,0.53,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7095,87,0.55,FEMALE,Other,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7097,53,0.56,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7099,85,0.68,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7100,66,0.56,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7101,80,0.45,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7102,76,0.61,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7103,49,0.65,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7104,61,0.5,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7177,82,0.62,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7178,64,0.53,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7180,34,0.17,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7183,53,0.9,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7235,67,0.61,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7236,77,0.21,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7238,69,0.15,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7242,60,0.45,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7243,50,0.53,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7245,62,0.76,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7247,55,0.67,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7248,63,0.19,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7250,64,0.69,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7252,62,0.24,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7253,58,0.78,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7254,55,0.44,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7255,32,0.66,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7261,57,0.64,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7263,64,0.55,MALE,BLACK OR AFRICAN AMERICAN,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7406,49,0.58,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7407,67,0.6,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7409,43,0.74,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7410,61,0.13,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7411,64,0.41,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7413,74,0.39,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7414,78,0.85,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7415,60,0.65,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-7416,29,0.73,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7418,62,0.7,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7421,76,0.56,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7422,60,0.3,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7423,65,0.68,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7424,67,0.58,MALE,ASIAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7425,77,0.51,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7427,73,0.44,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7428,47,0.59,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7429,55,0.16,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7430,56,0.74,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7432,79,0.67,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7433,49,0.21,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7434,64,0.68,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7435,57,0.54,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-7437,77,0.73,MALE,Other,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7438,87,0.43,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-7440,38,0.74,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-A45O,57,0.28,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-A45P,82,0.39,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45Q,69,0.52,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-A45R,46,0.51,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45T,64,0.99,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45U,59,0.61,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45V,87,0.52,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45W,75,0.37,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45X,47,0.45,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45Y,61,0.19,MALE,Other,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A45Z,75,0.16,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A460,72,0.24,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A461,65,0.45,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-A463,82,0.6,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A464,48,0.17,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A465,24,0.51,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A468,42,0.91,MALE,Other,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6JD,82,0.58,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-A6JE,78,0.6,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-A6JM,85,0.57,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CV-A6JN,53,0.54,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CV-A6JO,69,0.25,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6JT,65,0.25,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6JU,61,0.23,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6JY,69,0.29,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6JZ,68,0.26,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6K0,58,0.94,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6K1,65,0.62,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CV-A6K2,79,0.11,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-CX-7082,82,0.74,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CX-7085,77,0.99,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-CX-7219,47,0.55,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-CX-A4AQ,56,0.66,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-6515,82,0.99,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-D6-6516,69,0.61,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-6517,59,0.23,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-6823,50,0.6,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-6824,61,0.99,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-6825,73,0.27,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-6826,64,0.28,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-D6-6827,55,0.78,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-8568,62,0.34,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-8569,52,0.64,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-A4Z9,59,0.46,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-D6-A4ZB,61,0.24,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-D6-A6EK,67,0.43,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-A6EM,65,0.36,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-A6EN,71,0.52,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-A6EO,44,0.69,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-A6EP,62,0.94,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-A6EQ,57,0.56,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-A6ES,50,0.74,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-D6-A74Q,67,0.66,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-DQ-5624,43,0.18,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-DQ-5625,52,0.62,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-DQ-5629,64,0.8,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-DQ-5630,73,0.19,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-DQ-5631,52,0.68,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-DQ-7588,66,0.72,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-DQ-7591,62,0.73,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-DQ-7592,57,0.48,MALE,Other,Other,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-7848,47,0.56,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-8298,58,0.48,MALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-F7-8489,48,0.11,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-A50G,66,0.42,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-A61S,62,0.64,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-A61V,54,0.48,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-A61W,51,0.8,MALE,ASIAN,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-A620,47,0.18,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-A622,75,0.73,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-F7-A623,70,0.6,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-F7-A624,73,0.5,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-H7-7774,75,0.61,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-H7-8501,54,0.43,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-H7-8502,50,0.77,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-H7-A6C4,35,0.16,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-H7-A6C5,65,0.6,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-H7-A76A,57,0.26,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-HD-7229,60,0.6,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-HD-7753,62,0.6,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-HD-7754,69,0.77,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-HD-7831,74,0.92,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-HD-7832,52,0.72,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-HD-7917,62,0.63,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-HD-8314,58,0.62,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinomaBasaloidType,NonSmoker
+TCGA-HD-8634,51,0.17,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-HD-8635,61,0.45,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-HD-A4C1,41,0.62,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-HD-A633,74,0.63,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-HD-A634,56,0.54,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-HD-A6HZ,79,0.41,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-HD-A6I0,56,0.61,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-HL-7533,65,0.67,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-IQ-7630,49,0.64,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-IQ-7631,60,0.8,FEMALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-IQ-7632,68,0.18,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-IQ-A61E,55,0.48,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-IQ-A61G,57,0.78,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-IQ-A61H,76,0.22,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-IQ-A61I,63,0.72,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-IQ-A61J,54,0.35,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-IQ-A61O,43,0.49,MALE,WHITE,Stage IV,Other,NonSmoker
+TCGA-IQ-A6SG,61,0.66,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-IQ-A6SH,55,0.58,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-KU-A66S,69,0.38,FEMALE,WHITE,Stage III,HeadNeckSquamousCellCarcinomaBasaloidType,Smoker
+TCGA-KU-A66T,53,0.88,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-KU-A6H7,55,0.47,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-KU-A6H8,41,0.12,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-MT-A51W,52,0.19,FEMALE,WHITE,Stage I,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-MT-A51X,30,0.57,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-MT-A67D,55,0.55,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-MT-A67F,60,0.99,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-MT-A7BN,74,0.6,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-MZ-A6I9,68,0.26,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-MZ-A7D7,51,0.6,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-P3-A5Q5,54,0.54,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinomaBasaloidType,Smoker
+TCGA-P3-A5Q6,49,0.51,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-P3-A5QA,41,0.51,MALE,Other,Stage I,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-P3-A5QE,49,0.69,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinomaBasaloidType,NonSmoker
+TCGA-P3-A5QF,49,0.82,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-P3-A6SW,50,0.21,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinomaBasaloidType,Smoker
+TCGA-P3-A6SX,67,0.66,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-P3-A6T0,47,0.72,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-P3-A6T2,45,0.82,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-P3-A6T3,49,0.66,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-P3-A6T4,54,0.59,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-P3-A6T5,79,0.61,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-P3-A6T6,53,0.72,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-P3-A6T7,55,0.45,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-P3-A6T8,54,0.43,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-QK-A64Z,79,0.25,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-QK-A652,60,0.24,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-QK-A6IF,61,0.58,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-QK-A6IG,69,0.59,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-QK-A6IH,65,0.75,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-QK-A6II,52,0.59,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-QK-A6IJ,71,0.37,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Smoker
+TCGA-QK-A6V9,56,0.58,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-QK-A6VB,66,0.82,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-QK-A6VC,62,0.17,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-QK-A8Z7,59,0.87,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinomaBasaloidType,Other
+TCGA-QK-A8Z8,60,0.7,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-QK-A8Z9,56,0.51,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-QK-A8ZA,60,0.85,MALE,BLACK OR AFRICAN AMERICAN,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-QK-A8ZB,68,0.4,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-QK-AA3J,69,0.73,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HeadNeckSquamousCellCarcinomaBasaloidType,Other
+TCGA-QK-AA3K,60,0.43,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-RS-A6TO,82,0.57,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-RS-A6TP,58,0.88,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-T2-A6WX,73,0.5,FEMALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-T2-A6WZ,53,0.52,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-T2-A6X0,49,0.71,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-T2-A6X2,82,0.63,MALE,WHITE,Stage III,HeadNeckSquamousCellCarcinoma,Other
+TCGA-T3-A92M,52,0.74,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-T3-A92N,79,0.79,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-TN-A7HI,56,0.75,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-TN-A7HJ,51,0.17,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-TN-A7HL,59,0.23,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A718,62,0.42,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A719,54,0.76,MALE,Other,Stage II,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A71A,67,0.77,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A71B,50,0.53,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A71D,54,0.61,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A71E,63,0.61,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinomaBasaloidType,Other
+TCGA-UF-A7J9,75,0.22,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JA,66,0.18,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JC,42,0.82,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JD,71,0.49,MALE,Other,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JF,80,0.66,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JH,59,0.66,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JJ,68,0.17,MALE,Other,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JK,59,0.71,MALE,Other,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JO,79,0.38,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JS,59,0.6,MALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JT,72,0.47,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,Other
+TCGA-UF-A7JV,62,0.39,FEMALE,WHITE,Stage IV,HeadNeckSquamousCellCarcinoma,NonSmoker
+TCGA-UP-A6WW,58,0.84,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-WA-A7GZ,58,0.6,MALE,WHITE,Other,HeadNeckSquamousCellCarcinoma,Other
+TCGA-WA-A7H4,69,0.16,MALE,WHITE,Stage II,HeadNeckSquamousCellCarcinoma,Other

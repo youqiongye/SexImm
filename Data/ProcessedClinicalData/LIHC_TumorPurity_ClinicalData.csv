@@ -1,0 +1,372 @@
+barcode,age_at_initial_pathologic_diagnosis,Purity,gender,race,pathologic_stage,histological_type
+TCGA-2V-A95S,#N/A,0.66,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-2Y-A9GS,58,0.7,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-2Y-A9GT,51,0.59,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9GU,55,0.84,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9GV,54,0.66,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9GW,64,0.61,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9GX,68,0.47,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9GY,64,0.71,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-2Y-A9GZ,82,0.89,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-2Y-A9H0,49,0.84,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-2Y-A9H1,58,0.73,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9H2,64,0.69,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9H3,45,0.61,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-2Y-A9H4,68,0.78,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9H5,59,0.73,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9H6,68,0.51,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9H7,81,0.84,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9H8,85,0.78,FEMALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-2Y-A9H9,70,0.86,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-2Y-A9HA,70,0.81,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-2Y-A9HB,66,0.73,MALE,Other,Stage I,HepatocellularCarcinoma
+TCGA-3K-AAZ8,65,0.81,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HepatocellularCarcinoma
+TCGA-4R-AA8I,66,0.81,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-5C-A9VG,58,0.67,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-5C-A9VH,70,0.78,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-5C-AAPD,61,0.68,MALE,ASIAN,Stage II,Other
+TCGA-5R-AA1C,57,0.78,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-5R-AA1D,17,0.47,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-5R-AAAM,65,0.62,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-BC-4072,74,0.63,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-BC-4073,73,0.6,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-BC-A10Q,72,0.75,FEMALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BC-A10R,66,0.71,FEMALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BC-A10S,81,0.71,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BC-A10T,76,0.72,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BC-A10U,69,0.8,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BC-A10W,50,0.7,MALE,ASIAN,Other,HepatocellularCarcinoma
+TCGA-BC-A10X,52,0.39,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-BC-A10Y,76,0.88,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BC-A10Z,62,0.93,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-BC-A110,51,0.44,FEMALE,BLACK OR AFRICAN AMERICAN,Other,HepatocellularCarcinoma
+TCGA-BC-A112,80,0.68,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BC-A216,62,0.78,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-BC-A217,75,0.88,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-BC-A3KF,66,0.83,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-BC-A3KG,68,0.89,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-BC-A5W4,69,0.9,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-BC-A69H,64,0.8,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-BC-A69I,69,0.78,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-BC-A8YO,66,0.86,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-BD-A2L6,69,0.83,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-BD-A3EP,75,0.59,FEMALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-BD-A3ER,62,0.66,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-BW-A5NO,50,0.86,MALE,BLACK OR AFRICAN AMERICAN,Stage III,HepatocellularCarcinoma
+TCGA-BW-A5NP,26,0.86,FEMALE,WHITE,Stage IV,HepatocellularCarcinoma
+TCGA-BW-A5NQ,63,0.64,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-CC-5258,48,0.66,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-CC-5259,60,0.82,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-5260,61,0.63,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-5261,44,0.58,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-CC-5262,67,0.54,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-5263,35,0.69,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-5264,71,0.88,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A123,24,0.82,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A1HT,50,0.42,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A3M9,45,0.52,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A3MA,61,0.74,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A3MB,36,0.83,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A3MC,54,0.65,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A5UC,63,0.54,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A5UD,45,0.86,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A5UE,48,0.84,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A7IE,57,0.61,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A7IF,59,0.82,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A7IG,47,0.77,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-CC-A7IH,58,0.85,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A7II,54,0.79,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A7IJ,56,0.58,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-CC-A7IK,59,0.9,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A7IL,61,0.92,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A8HS,18,0.81,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A8HT,74,0.62,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A8HU,39,0.89,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A8HV,51,0.69,FEMALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-CC-A9FS,55,0.51,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-CC-A9FU,52,0.9,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A9FV,57,0.15,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-CC-A9FW,68,0.8,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-DD-A113,55,0.8,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A114,42,0.44,MALE,BLACK OR AFRICAN AMERICAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-A115,53,0.75,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A116,68,0.72,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-DD-A118,77,0.73,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A119,40,0.7,MALE,ASIAN,Stage IV,HepatocellularCarcinoma
+TCGA-DD-A11A,67,0.84,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-A11B,73,0.86,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A11C,69,0.88,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A11D,57,0.76,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A1EA,68,0.81,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-A1EB,72,0.81,FEMALE,Other,Stage I,HepatocellularCarcinoma
+TCGA-DD-A1EC,20,0.56,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A1ED,68,0.44,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A1EE,73,0.82,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A1EF,57,0.64,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A1EG,76,0.68,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A1EH,23,0.72,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A1EI,46,0.58,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-A1EJ,71,0.8,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A1EK,64,0.81,FEMALE,WHITE,Stage IV,HepatocellularCarcinoma
+TCGA-DD-A1EL,23,0.77,MALE,BLACK OR AFRICAN AMERICAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-A39V,77,0.77,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A39W,29,0.84,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A39X,78,0.56,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A39Y,67,0.78,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-A39Z,43,0.84,FEMALE,Other,Stage II,HepatocellularCarcinoma
+TCGA-DD-A3A1,65,0.78,MALE,Other,Stage III,HepatocellularCarcinoma
+TCGA-DD-A3A2,76,0.79,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A3A3,45,0.75,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-A3A4,37,0.75,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A3A5,66,0.83,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A3A6,72,0.17,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A3A7,67,0.82,MALE,Other,Stage III,HepatocellularCarcinoma
+TCGA-DD-A3A8,75,0.76,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A3A9,64,0.58,FEMALE,WHITE,Stage IV,HepatocellularCarcinoma
+TCGA-DD-A4NA,67,0.75,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A4NB,25,0.53,MALE,WHITE,Stage I,Other
+TCGA-DD-A4ND,56,0.59,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NE,75,0.84,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A4NF,72,0.78,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NG,77,0.73,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A4NH,65,0.29,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A4NI,67,0.67,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A4NJ,54,0.72,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A4NK,80,0.8,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A4NL,46,0.45,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NN,56,0.86,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NO,65,0.7,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NP,32,0.65,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NQ,60,0.51,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A4NR,85,0.55,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NS,61,0.46,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A4NV,61,0.7,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A73A,71,0.72,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A73B,72,0.9,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A73C,65,0.7,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-DD-A73D,68,0.93,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-DD-A73E,66,0.9,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A73F,77,0.72,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-A73G,73,0.69,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-DD-AA3A,81,0.67,FEMALE,WHITE,Stage I,Other
+TCGA-DD-AAC8,72,0.87,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAC9,51,0.61,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACA,65,0.89,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACB,74,0.79,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACC,61,0.47,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACD,48,0.68,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACE,62,0.85,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACF,68,0.84,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACG,52,0.82,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AACH,69,0.84,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AACI,69,0.69,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AACJ,75,0.88,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AACK,70,0.81,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACL,66,0.57,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACN,32,0.71,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACO,40,0.78,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACP,64,0.85,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACQ,50,0.87,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AACS,39,0.87,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACT,69,0.69,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACU,59,0.79,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACV,53,0.94,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACW,43,0.82,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACX,66,0.83,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AACY,61,0.82,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AACZ,63,0.65,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAD0,73,0.92,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAD1,51,0.49,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAD2,66,0.54,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAD3,43,0.66,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAD5,54,0.7,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAD6,66,0.88,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-DD-AAD8,73,0.92,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADA,66,0.67,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADB,51,0.7,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADC,53,0.72,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADD,51,0.9,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADF,64,0.91,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADG,70,0.84,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-DD-AADI,43,0.73,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADJ,70,0.83,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADK,68,0.56,FEMALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AADL,58,0.82,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADM,58,0.83,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AADN,59,0.72,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADO,55,0.74,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADP,45,0.81,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADQ,59,0.85,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AADR,58,0.76,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADS,63,0.71,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADU,60,0.85,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AADV,50,0.87,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADW,48,0.79,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AADY,55,0.86,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAE0,45,0.68,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-DD-AAE1,52,0.85,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAE2,51,0.8,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAE3,50,0.86,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAE4,49,0.81,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAE6,59,0.94,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAE7,72,0.71,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAE9,69,0.81,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAEA,65,0.75,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAEB,60,0.86,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAED,51,0.84,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAEE,55,0.85,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAEG,59,0.77,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAEH,73,0.71,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAEI,72,0.72,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAEK,51,0.66,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AAVP,48,0.79,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAVQ,38,0.57,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAVR,44,0.56,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAVS,56,0.77,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAVU,46,0.9,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AAVV,56,0.65,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AAVW,35,0.64,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAVX,38,0.72,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-DD-AAVY,56,0.91,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-DD-AAVZ,38,0.75,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAW0,54,0.62,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAW1,55,0.83,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-DD-AAW2,69,0.88,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-DD-AAW3,69,0.86,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-ED-A459,47,0.7,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-ED-A4XI,58,0.5,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-ED-A5KG,60,0.31,FEMALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-ED-A627,74,0.4,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-ED-A66X,35,0.52,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-ED-A66Y,51,0.9,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-ED-A7PX,48,0.67,FEMALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-ED-A7PY,20,0.83,FEMALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-ED-A7PZ,61,0.9,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-ED-A7XO,29,0.64,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-ED-A7XP,53,0.67,FEMALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-ED-A82E,60,0.11,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-ED-A8O5,59,0.83,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-ED-A8O6,50,0.77,FEMALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-ED-A97K,54,0.6,MALE,ASIAN,Stage III,Other
+TCGA-EP-A12J,62,0.81,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-EP-A26S,70,0.87,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-EP-A2KA,52,0.64,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-EP-A2KB,46,0.83,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-EP-A2KC,62,0.77,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-EP-A3JL,76,0.69,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-EP-A3RK,73,0.56,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-ES-A2HS,80,0.8,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-ES-A2HT,54,0.6,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-FV-A23B,70,0.81,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-FV-A2QQ,80,0.67,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-FV-A2QR,75,0.78,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-FV-A3I0,76,0.8,FEMALE,WHITE,Stage II,Other
+TCGA-FV-A3I1,81,0.69,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-FV-A3R2,75,0.75,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-FV-A3R3,38,0.54,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-FV-A495,51,0.66,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-FV-A496,84,0.88,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-FV-A4ZP,78,0.75,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-FV-A4ZQ,52,0.7,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A25S,64,0.84,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A25T,45,0.74,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-G3-A25U,63,0.9,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-G3-A25V,68,0.49,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A25X,73,0.61,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-G3-A25Y,52,0.63,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-G3-A25Z,58,0.73,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-G3-A3CG,80,0.71,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A3CH,53,0.61,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-G3-A3CI,71,0.44,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A3CJ,52,0.81,MALE,Other,Stage II,HepatocellularCarcinoma
+TCGA-G3-A3CK,61,0.72,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-G3-A5SI,44,0.87,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-G3-A5SJ,59,0.68,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A5SK,58,0.68,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A5SL,70,0.8,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-G3-A5SM,58,0.67,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-G3-A6UC,65,0.9,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-G3-A7M5,76,0.82,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-G3-A7M6,60,0.75,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A7M7,65,0.62,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-A7M8,31,0.64,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-G3-A7M9,70,0.71,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-G3-AAUZ,48,0.76,MALE,Other,Stage I,HepatocellularCarcinoma
+TCGA-G3-AAV0,58,0.82,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-G3-AAV1,51,0.82,MALE,ASIAN,Stage III,HepatocellularCarcinoma
+TCGA-G3-AAV2,50,0.84,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-AAV3,58,0.65,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-G3-AAV4,83,0.89,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-G3-AAV5,67,0.83,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-G3-AAV6,53,0.87,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-G3-AAV7,38,0.67,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-GJ-A3OU,59,0.5,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-GJ-A6C0,75,0.76,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-GJ-A9DB,68,0.74,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-HP-A5MZ,78,0.53,MALE,Other,Stage I,HepatocellularCarcinoma
+TCGA-HP-A5N0,90,0.7,FEMALE,Other,Other,HepatocellularCarcinoma
+TCGA-K7-A5RF,64,0.44,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-K7-A5RG,66,0.52,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-K7-A6G5,66,0.67,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-K7-AAU7,61,0.63,MALE,WHITE,Stage II,Other
+TCGA-KR-A7K0,65,0.68,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-KR-A7K2,64,0.81,MALE,WHITE,Stage I,Other
+TCGA-KR-A7K7,61,0.71,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-KR-A7K8,57,0.53,MALE,Other,Stage I,HepatocellularCarcinoma
+TCGA-LG-A6GG,79,0.89,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-LG-A9QC,48,0.82,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-LG-A9QD,68,0.62,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-MI-A75C,64,0.78,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-MI-A75E,61,0.56,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-MI-A75G,63,0.86,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-MI-A75H,77,0.74,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-MI-A75I,61,0.75,MALE,BLACK OR AFRICAN AMERICAN,Other,HepatocellularCarcinoma
+TCGA-MR-A520,58,0.57,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-MR-A8JO,34,0.49,MALE,WHITE,Stage I,Other
+TCGA-NI-A4U2,71,0.73,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-NI-A8LF,74,0.73,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-O8-A75V,54,0.67,MALE,Other,Stage I,HepatocellularCarcinoma
+TCGA-PD-A5DF,58,0.72,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-QA-A7B7,48,0.85,MALE,BLACK OR AFRICAN AMERICAN,Stage II,HepatocellularCarcinoma
+TCGA-RC-A6M3,24,0.65,MALE,Other,Stage II,HepatocellularCarcinoma
+TCGA-RC-A6M4,74,0.92,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-RC-A6M5,20,0.51,FEMALE,WHITE,Stage IV,Other
+TCGA-RC-A6M6,75,0.75,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-RC-A7S9,47,0.83,FEMALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-RC-A7SB,53,0.77,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-RC-A7SF,66,0.8,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-RC-A7SH,42,0.86,MALE,ASIAN,Stage II,HepatocellularCarcinoma
+TCGA-RC-A7SK,59,0.81,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-RG-A7D4,69,0.69,MALE,BLACK OR AFRICAN AMERICAN,Stage II,HepatocellularCarcinoma
+TCGA-T1-A6J8,68,0.79,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-UB-A7MA,62,0.83,FEMALE,WHITE,Stage II,Other
+TCGA-UB-A7MB,24,0.89,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-UB-A7MC,59,0.93,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-UB-A7MD,67,0.69,MALE,BLACK OR AFRICAN AMERICAN,Stage I,HepatocellularCarcinoma
+TCGA-UB-A7ME,51,0.69,MALE,ASIAN,Stage I,HepatocellularCarcinoma
+TCGA-UB-A7MF,56,0.73,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-UB-AA0U,60,0.68,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-UB-AA0V,69,0.39,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-WJ-A86L,68,0.9,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-WQ-A9G7,71,0.68,FEMALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-WQ-AB4B,62,0.7,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-WX-AA44,64,0.64,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-WX-AA46,61,0.65,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-WX-AA47,33,0.85,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-XR-A8TC,43,0.83,FEMALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-XR-A8TD,49,0.62,FEMALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-XR-A8TE,16,0.75,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-XR-A8TF,74,0.92,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-XR-A8TG,58,0.83,MALE,WHITE,Stage I,HepatocellularCarcinoma
+TCGA-YA-A8S7,68,0.62,MALE,WHITE,Stage III,HepatocellularCarcinoma
+TCGA-ZP-A9CV,59,0.71,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-ZP-A9CY,66,0.72,FEMALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-ZP-A9CZ,72,0.68,MALE,ASIAN,Other,HepatocellularCarcinoma
+TCGA-ZP-A9D0,67,0.75,FEMALE,BLACK OR AFRICAN AMERICAN,Other,HepatocellularCarcinoma
+TCGA-ZP-A9D1,56,0.68,FEMALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-ZP-A9D2,51,0.71,MALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-ZP-A9D4,64,0.87,FEMALE,WHITE,Other,HepatocellularCarcinoma
+TCGA-ZS-A9CD,73,0.68,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-ZS-A9CE,79,0.86,FEMALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-ZS-A9CF,64,0.88,MALE,WHITE,Stage II,HepatocellularCarcinoma
+TCGA-ZS-A9CG,55,0.78,MALE,WHITE,Stage II,HepatocellularCarcinoma

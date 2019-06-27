@@ -1,0 +1,384 @@
+barcode,age_at_initial_pathologic_diagnosis,Purity,gender,race,pathologic_stage,histological_type
+TCGA-3M-AB46,70,0.72,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-3M-AB47,51,0.39,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-B7-5816,51,0.75,FEMALE,WHITE,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-B7-5818,62,0.76,MALE,WHITE,Stage I,StomachAdenocarcinomaDiffuseType
+TCGA-B7-A5TI,52,0.63,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-B7-A5TJ,74,0.77,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-B7-A5TK,51,0.48,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-B7-A5TN,60,0.62,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4187,56,0.99,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4191,72,0.51,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4201,66,0.35,FEMALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4253,80,0.4,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4255,76,0.24,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4256,80,0.16,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4257,79,0.62,FEMALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4267,51,0.71,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4279,43,0.19,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4280,78,0.74,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4292,73,0.71,FEMALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4294,65,0.96,MALE,WHITE,Other,StomachIntestinalAdenocarcinomaTubularType
+TCGA-BR-4357,58,0.44,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4361,66,0.63,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4362,74,0.59,FEMALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4363,60,0.63,FEMALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4366,87,0.81,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4367,78,0.52,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4368,78,0.99,FEMALE,WHITE,Stage IV,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4369,75,0.57,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4370,74,0.37,FEMALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-4371,71,0.7,FEMALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6452,78,0.54,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6454,58,0.38,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6455,59,0.74,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6456,74,0.23,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6457,69,0.17,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6458,57,0.63,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6563,60,0.99,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6564,46,0.19,FEMALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-BR-6565,67,0.69,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6566,64,0.5,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6705,68,0.13,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6706,63,0.85,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6707,75,0.52,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6709,57,0.24,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6801,70,0.67,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6802,65,0.25,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-6803,54,0.15,FEMALE,WHITE,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-BR-6852,64,0.94,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7196,64,0.12,MALE,WHITE,Stage IV,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7197,69,0.76,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7703,81,0.63,MALE,WHITE,Stage I,Other
+TCGA-BR-7704,69,0.7,FEMALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7707,69,0.68,FEMALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7715,65,0.77,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7716,62,0.24,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7717,63,0.58,MALE,WHITE,Stage IV,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7722,62,0.7,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7723,59,0.67,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7851,74,0.6,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7901,74,0.46,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7957,50,0.18,FEMALE,WHITE,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-7958,60,0.92,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8058,53,0.65,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8284,72,0.72,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8286,49,0.89,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8363,73,0.94,FEMALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8364,42,0.85,FEMALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-BR-8365,70,0.94,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8367,55,0.94,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8368,84,0.54,FEMALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8369,76,0.9,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8371,62,0.88,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8373,65,0.87,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8380,55,0.81,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8381,51,0.99,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8382,67,0.08,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8384,69,0.67,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8483,59,0.87,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8484,61,0.61,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8486,90,0.6,FEMALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8588,55,0.11,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8589,56,0.54,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8590,62,0.67,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8591,79,0.55,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8592,63,0.14,FEMALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-BR-8676,59,0.16,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8678,76,0.85,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-8680,45,0.68,MALE,ASIAN,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-BR-8682,52,0.45,MALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-BR-8683,75,0.31,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-BR-8686,69,0.63,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-BR-A44U,70,0.64,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A452,57,0.63,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-BR-A453,51,0.9,MALE,ASIAN,Stage IV,StomachAdenocarcinomaSignetRingType
+TCGA-BR-A4CR,70,0.78,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4CS,77,0.57,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4IU,34,0.99,FEMALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-BR-A4IV,47,0.11,MALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-BR-A4IY,58,0.22,MALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4IZ,45,0.6,FEMALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-BR-A4J1,63,0.78,MALE,ASIAN,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4J2,70,0.13,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-BR-A4J4,39,0.5,MALE,ASIAN,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4J5,56,0.73,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-BR-A4J6,69,0.6,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4J7,49,0.18,MALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-BR-A4J8,71,0.62,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4J9,55,0.72,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4PD,72,0.64,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4PE,68,0.67,FEMALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4PF,72,0.6,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4QI,70,0.64,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4QL,75,0.75,FEMALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-BR-A4QM,65,0.49,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-5798,82,0.13,MALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-CD-5800,51,0.54,FEMALE,ASIAN,Stage II,Other
+TCGA-CD-5801,69,0.18,MALE,ASIAN,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-5803,78,0.19,FEMALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-5804,90,0.4,MALE,ASIAN,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-8524,61,0.88,FEMALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-8525,82,0.93,FEMALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-CD-8526,73,0.83,FEMALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-8527,72,0.56,FEMALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-8528,43,0.88,FEMALE,ASIAN,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-8529,65,0.76,MALE,ASIAN,Stage IV,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-CD-8530,51,0.9,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-CD-8531,66,0.87,FEMALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-CD-8532,52,0.91,MALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-8535,59,0.95,MALE,ASIAN,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-8536,74,0.84,MALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-A486,68,0.73,MALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-A487,51,0.47,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-CD-A489,58,0.65,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-CD-A48A,57,0.83,MALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-A48C,79,0.82,FEMALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-A4MG,76,0.54,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-CD-A4MH,86,0.59,FEMALE,ASIAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CD-A4MJ,60,0.72,MALE,ASIAN,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4301,75,0.32,FEMALE,Other,Stage IV,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4304,84,0.47,MALE,Other,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4305,69,0.39,MALE,Other,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4306,90,0.21,MALE,Other,Stage IV,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4436,57,0.65,MALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4437,83,0.61,MALE,Other,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4438,56,0.62,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4440,68,0.72,FEMALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4441,83,0.61,MALE,Other,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4442,85,0.37,MALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4443,68,0.88,MALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4444,76,0.59,MALE,Other,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-CG-4449,81,0.57,MALE,Other,Stage II,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-CG-4460,66,0.75,FEMALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4462,72,0.1,FEMALE,Other,Stage IV,StomachAdenocarcinomaDiffuseType
+TCGA-CG-4465,69,0.7,FEMALE,Other,Stage IV,StomachAdenocarcinomaDiffuseType
+TCGA-CG-4466,81,0.87,FEMALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4469,70,0.82,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-4472,49,0.59,MALE,Other,Stage IV,Other
+TCGA-CG-4474,67,0.4,FEMALE,Other,Stage IV,StomachAdenocarcinomaDiffuseType
+TCGA-CG-4475,76,0.6,MALE,Other,Stage II,Other
+TCGA-CG-4476,69,0.3,MALE,Other,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-CG-4477,58,0.42,FEMALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5716,86,0.78,MALE,Other,Stage IV,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5717,58,0.13,MALE,Other,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5718,78,0.53,FEMALE,Other,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5719,54,0.36,FEMALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5720,71,0.64,MALE,Other,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5721,58,0.88,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5722,67,0.59,FEMALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5723,83,0.51,MALE,Other,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5724,59,0.71,MALE,Other,Stage IV,StomachAdenocarcinomaDiffuseType
+TCGA-CG-5725,72,0.96,MALE,Other,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5726,73,0.48,MALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5728,88,0.41,FEMALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5730,80,0.84,FEMALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5732,66,0.6,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5733,83,0.63,FEMALE,Other,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-CG-5734,68,0.13,MALE,Other,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-5577,53,0.75,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-5578,80,0.54,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-6518,75,0.3,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-D7-6519,64,0.84,FEMALE,WHITE,Other,StomachAdenocarcinomaDiffuseType
+TCGA-D7-6520,53,0.68,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-6521,65,0.34,MALE,WHITE,Other,StomachAdenocarcinomaDiffuseType
+TCGA-D7-6522,58,0.74,MALE,WHITE,Stage I,StomachAdenocarcinomaDiffuseType
+TCGA-D7-6524,53,0.19,MALE,WHITE,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-D7-6525,58,0.73,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-D7-6526,67,0.84,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-6527,62,0.7,MALE,WHITE,Stage II,Other
+TCGA-D7-6528,70,0.79,FEMALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-6815,70,0.81,FEMALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-6817,63,0.52,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-6818,53,0.63,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-D7-6820,64,0.65,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-6822,77,0.69,MALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-8570,44,0.86,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-8572,57,0.84,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-8573,57,0.97,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-8574,72,0.88,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-8575,75,0.86,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-8578,72,0.93,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-8579,66,0.91,FEMALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-A4YT,56,0.68,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-A4YU,73,0.2,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-A4YV,69,0.84,FEMALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-A4YX,63,0.63,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-A4YY,61,0.81,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-A6EV,71,0.68,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-A6EX,72,0.78,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-A6EY,72,0.21,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-A6EZ,66,0.63,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-A6F0,79,0.75,FEMALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-D7-A6F2,62,0.72,MALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-D7-A747,57,0.15,MALE,WHITE,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-D7-A748,41,0.16,FEMALE,WHITE,Stage IV,StomachAdenocarcinomaDiffuseType
+TCGA-D7-A74A,61,0.9,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-EQ-8122,71,0.91,FEMALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-EQ-A4SO,70,0.78,MALE,WHITE,Stage III,Other
+TCGA-F1-6177,90,0.87,MALE,BLACK OR AFRICAN AMERICAN,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-F1-6874,79,0.64,MALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-F1-6875,79,0.87,MALE,BLACK OR AFRICAN AMERICAN,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-F1-A448,70,0.14,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-F1-A72C,68,0.29,MALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-FP-7735,77,0.48,MALE,BLACK OR AFRICAN AMERICAN,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-FP-7829,69,0.85,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-FP-7916,77,0.35,MALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-FP-7998,77,0.98,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-FP-8099,79,0.93,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-FP-8209,49,0.87,MALE,WHITE,Stage I,StomachAdenocarcinomaDiffuseType
+TCGA-FP-8210,48,0.77,MALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-FP-8211,62,0.83,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-FP-8631,68,0.62,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-FP-A4BE,55,0.55,MALE,BLACK OR AFRICAN AMERICAN,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-FP-A4BF,68,0.43,MALE,WHITE,Stage III,StomachAdenocarcinomaSignetRingType
+TCGA-FP-A8CX,60,0.14,MALE,WHITE,Stage III,StomachAdenocarcinomaSignetRingType
+TCGA-FP-A9TM,77,0.37,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-HF-7131,#N/A,0.55,FEMALE,Other,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-HF-7132,#N/A,0.35,MALE,Other,Stage II,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-HF-7133,#N/A,0.54,FEMALE,Other,Stage IV,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-HF-7134,#N/A,0.8,MALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-HF-7136,#N/A,0.79,MALE,Other,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-HF-A5NB,75,0.91,FEMALE,Other,Stage III,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-HJ-7597,71,0.61,FEMALE,WHITE,Stage I,StomachAdenocarcinomaSignetRingType
+TCGA-HU-8238,56,0.92,MALE,ASIAN,Other,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-8243,66,0.86,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-8244,77,0.93,FEMALE,ASIAN,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-8249,76,0.87,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-8602,58,0.5,FEMALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-HU-8604,82,0.78,FEMALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-8608,70,0.23,MALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-HU-8610,75,0.17,MALE,ASIAN,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4G2,45,0.68,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4G3,54,0.72,MALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4G6,74,0.75,MALE,ASIAN,Stage I,Other
+TCGA-HU-A4G8,71,0.17,FEMALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4G9,67,0.89,FEMALE,ASIAN,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4GC,74,0.26,MALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4GF,69,0.73,MALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4GH,75,0.72,MALE,ASIAN,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4GJ,60,0.78,FEMALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4GN,61,0.06,MALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4GP,62,0.84,FEMALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4GQ,71,0.51,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4GT,71,0.81,FEMALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4GU,73,0.76,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4GX,70,0.55,FEMALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4GY,76,0.77,FEMALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4H0,72,0.54,MALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4H2,58,0.62,FEMALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4H4,53,0.27,FEMALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4H5,71,0.68,MALE,ASIAN,Stage I,Other
+TCGA-HU-A4H6,72,0.15,FEMALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4H8,77,0.69,MALE,ASIAN,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-HU-A4HB,68,0.43,MALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-HU-A4HD,73,0.63,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-IN-7806,50,0.63,MALE,WHITE,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-IN-7808,59,0.33,MALE,WHITE,Other,StomachAdenocarcinomaDiffuseType
+TCGA-IN-8462,80,0.88,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-8663,68,0.84,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A6RI,45,0.67,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A6RJ,64,0.17,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A6RL,84,0.63,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A6RN,72,0.54,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A6RO,70,0.97,MALE,ASIAN,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A6RR,84,0.73,MALE,WHITE,Other,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A6RS,76,0.54,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A7NR,64,0.17,FEMALE,WHITE,Stage IV,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A7NT,73,0.6,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-A7NU,69,0.5,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-AB1V,63,0.31,MALE,WHITE,Stage I,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IN-AB1X,78,0.4,FEMALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-IP-7968,74,0.72,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-KB-A6F7,54,0.59,FEMALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-KB-A93G,68,0.14,MALE,WHITE,Stage I,StomachAdenocarcinomaSignetRingType
+TCGA-KB-A93H,79,0.81,FEMALE,ASIAN,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-KB-A93J,78,0.67,MALE,WHITE,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-MX-A5UG,78,0.14,MALE,ASIAN,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-MX-A5UJ,86,0.65,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-MX-A663,66,0.15,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-MX-A666,61,0.56,MALE,WHITE,Stage II,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-R5-A7O7,51,0.35,MALE,WHITE,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-R5-A7ZE,66,0.58,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-R5-A7ZF,65,0.2,FEMALE,BLACK OR AFRICAN AMERICAN,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-R5-A7ZI,44,0.29,FEMALE,WHITE,Stage IV,StomachAdenocarcinomaDiffuseType
+TCGA-R5-A7ZR,70,0.79,FEMALE,BLACK OR AFRICAN AMERICAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-R5-A805,71,0.39,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-RD-A7BS,46,0.2,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-RD-A7BT,66,0.74,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-RD-A7BW,68,0.12,FEMALE,WHITE,Stage I,StomachAdenocarcinomaDiffuseType
+TCGA-RD-A7C1,82,0.47,MALE,WHITE,Stage I,StomachAdenocarcinomaDiffuseType
+TCGA-RD-A8MV,56,0.29,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-RD-A8MW,72,0.32,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-RD-A8N0,53,0.69,FEMALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-RD-A8N1,70,0.27,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-RD-A8N2,59,0.71,FEMALE,WHITE,Stage I,StomachAdenocarcinomaDiffuseType
+TCGA-RD-A8N4,58,0.81,FEMALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-RD-A8N6,78,0.72,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-RD-A8N9,63,0.37,FEMALE,ASIAN,Stage II,StomachAdenocarcinomaDiffuseType
+TCGA-SW-A7EA,61,0.66,FEMALE,WHITE,Stage I,StomachAdenocarcinomaDiffuseType
+TCGA-SW-A7EB,45,0.28,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-VQ-A8DT,43,0.29,MALE,Other,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8DU,63,0.64,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8DV,48,0.71,MALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8DZ,70,0.64,MALE,BLACK OR AFRICAN AMERICAN,Stage IV,StomachAdenocarcinomaSignetRingType
+TCGA-VQ-A8E0,68,0.6,MALE,BLACK OR AFRICAN AMERICAN,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8E2,57,0.55,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8E3,79,0.61,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8E7,59,0.64,MALE,WHITE,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8P2,68,0.86,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-VQ-A8P3,72,0.63,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8P5,67,0.54,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8P8,72,0.87,FEMALE,BLACK OR AFRICAN AMERICAN,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8PB,65,0.16,FEMALE,WHITE,Stage II,Other
+TCGA-VQ-A8PC,65,0.21,MALE,WHITE,Stage III,StomachAdenocarcinomaSignetRingType
+TCGA-VQ-A8PD,69,0.12,MALE,WHITE,Stage III,StomachAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8PE,78,0.51,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8PF,76,0.6,MALE,Other,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8PH,62,0.63,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8PJ,53,0.78,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8PK,58,0.6,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A8PM,56,0.22,MALE,WHITE,Stage IV,StomachAdenocarcinomaSignetRingType
+TCGA-VQ-A8PO,74,0.56,MALE,WHITE,Stage II,StomachAdenocarcinomaSignetRingType
+TCGA-VQ-A8PP,76,0.55,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8PQ,50,0.11,FEMALE,WHITE,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8PU,72,0.82,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A8PX,51,0.51,MALE,Other,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A91A,67,0.48,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaMucinousType
+TCGA-VQ-A91D,70,0.71,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A91E,67,0.36,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A91K,69,0.75,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A91N,59,0.69,FEMALE,Other,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A91Q,61,0.65,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A91S,63,0.61,MALE,BLACK OR AFRICAN AMERICAN,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A91U,78,0.71,MALE,ASIAN,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A91V,58,0.88,MALE,Other,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A91W,30,0.13,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A91X,74,0.71,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A91Y,67,0.34,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A91Z,67,0.77,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A922,70,0.66,MALE,Other,Stage IV,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A923,90,0.57,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A924,69,0.57,MALE,Other,Stage II,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A925,66,0.78,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A927,81,0.99,MALE,WHITE,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-VQ-A928,49,0.58,MALE,WHITE,Stage IV,Other
+TCGA-VQ-A92D,67,0.72,MALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-A94O,74,0.82,MALE,BLACK OR AFRICAN AMERICAN,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A94P,57,0.99,MALE,WHITE,Other,StomachAdenocarcinomaSignetRingType
+TCGA-VQ-A94R,63,0.68,MALE,WHITE,Other,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-A94T,73,0.85,MALE,Other,Stage III,StomachAdenocarcinomaDiffuseType
+TCGA-VQ-A94U,70,0.74,MALE,WHITE,Stage II,StomachAdenocarcinomaSignetRingType
+TCGA-VQ-AA64,68,0.56,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA68,52,0.68,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-AA69,35,0.79,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA6A,56,0.83,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA6B,48,0.85,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA6D,52,0.83,FEMALE,Other,Stage III,StomachIntestinalAdenocarcinomaTubularType
+TCGA-VQ-AA6F,57,0.26,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA6G,68,0.61,MALE,WHITE,Stage II,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA6I,68,0.56,MALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA6J,75,0.27,MALE,BLACK OR AFRICAN AMERICAN,Stage III,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-VQ-AA6K,59,0.54,MALE,WHITE,Stage III,StomachAdenocarcinomaSignetRingType
+TCGA-ZA-A8F6,71,0.21,MALE,WHITE,Stage I,StomachIntestinalAdenocarcinomaNotOtherwiseSpecifiedNOS
+TCGA-ZQ-A9CR,79,0.26,FEMALE,WHITE,Stage III,StomachIntestinalAdenocarcinomaTubularType
