@@ -3,7 +3,7 @@ options(stringsAsFactors = F)
 library(dummies)
 source("/extraspace/yye1/analysis/2019SexImm/code/CodeSummary/cal.R") ##load propensity score algorithm function.
 ##setup new folder, deposit result in this folder
-folder <- "Features"
+folder <- "PSM_Output"
 setwd("/extraspace/yye1/analysis/2019SexImm/3.PSM/")
 if (!file.exists(folder)) { dir.create(folder) }
 scripts.dir <- paste("/extraspace/yye1/analysis/2019SexImm/3.PSM/",folder,sep="")
