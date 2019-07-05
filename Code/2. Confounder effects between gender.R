@@ -46,7 +46,7 @@ pdf("./ProcessedClinicalData/Feature.bias.pdf",width=6,height = 2.5)#  order by 
 ggplot(FeaturesBias[FeaturesBias$tmp %in% c(0,0.5),],aes(x=cancer_types,y=Feature))+
   geom_point(aes(color=tmp),size=4)+
   scale_color_manual(limit=c(0,0.5),values=c("#E41A1C","darkgray"),guide=F)+
-  scale_y_discrete(limit=c(ContinousFeatures,DiscreteFeatures),labels=c("Age","Purity","Gender","Race","Stage","Histological type","Smoking"))+
+  scale_y_discrete(limit=c(ContinousFeatures,DiscreteFeatures),labels=c("Age","Purity","Race","Stage","Histological type","Smoking"))+
   geom_point(data=FeaturesBias[FeaturesBias$tmp ==1,],aes(x=cancer_types,y=Feature),shape=4,size=4)+
   theme(panel.background=element_rect(colour="white",fill="white"),
         #panel.grid.major=element_line(color="black"),
