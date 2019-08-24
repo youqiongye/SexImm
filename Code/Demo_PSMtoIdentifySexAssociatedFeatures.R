@@ -20,7 +20,8 @@ analysis="gender"
 sum.ImmFeatureAll <- data.frame()
 
 for(cancer in cancerNames){
-  data <- read.csv(paste("/extraspace/yye1/analysis/2019SexImm/ClinicalData/ProcessedClinicalData/",cancer,"_TumorPurity_ClinicalData.csv",sep = ""),header=T,stringsAsFactors=F)
+  ##Read clinic information, which deposited in https://github.com/youqiongye/SexImm/tree/master/Data/ProcessedClinicalData
+  data <- read.csv(paste(cancer,"_TumorPurity_ClinicalData.csv",sep = ""),header=T,stringsAsFactors=F)
   data$age_at_initial_pathologic_diagnosis <- as.numeric(data$age_at_initial_pathologic_diagnosis)
   data <- unique(data) 
   rownames(data) <- data[,1]
