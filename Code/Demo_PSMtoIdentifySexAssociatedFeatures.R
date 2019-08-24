@@ -1,19 +1,20 @@
 ##R version 3.5, platform x86_64-redhat-linux-gnu
 options(stringsAsFactors = F)
 library(dummies)
-source("/extraspace/yye1/analysis/2019SexImm/code/CodeSummary/cal.R") ##load propensity score algorithm function.
+#load propensity score algorithm function.
+source("cal.R") ##Code can downloaded from https://github.com/youqiongye/SexImm/edit/master/Data/.
 ##setup new folder, deposit result in this folder
 folder <- "PSM_Output"
-setwd("/extraspace/yye1/analysis/2019SexImm/3.PSM/")
 if (!file.exists(folder)) { dir.create(folder) }
-scripts.dir <- paste("/extraspace/yye1/analysis/2019SexImm/3.PSM/",folder,sep="")
+scripts.dir <- folder
 setwd(scripts.dir)
 ##22 cancer types we investigated
 cancerNames <- c("ACC", "BLCA", "COAD", "ESCA", "GBM", "HNSC", "KICH", "KIRC", "KIRP", "LGG",
                  "LIHC", "LUAD", "LUSC", "PAAD", "PCPG", "READ", "SARC", "SKCM", "STAD", "THCA", "THYM", "UVM")
 
 ###Loading demo data: the pan cancer mRNA expression of immune checkpoint
-ImmFeature <- readr::read_rds("/extraspace/yye1/analysis/2019SexImm/code/CodeSummary/Data/InputDataForPSM.rds") 
+##Data can be downloaded from https://github.com/youqiongye/SexImm/edit/master/Data/
+ImmFeature <- readr::read_rds("InputDataForPSM.rds") 
 
 analysis="gender" 
 sum.ImmFeatureAll <- data.frame()
