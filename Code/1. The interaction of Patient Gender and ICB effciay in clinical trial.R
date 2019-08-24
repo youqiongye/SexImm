@@ -4,7 +4,7 @@ options(stringsAsFactors = F)
 library(magrittr)
 library(metawho) ##Deft approached to assessing the effect of gender as measured within each relevant trial.
 
-##Load clinical trial data
+##Load clinical trial data, Data deposited in https://github.com/youqiongye/SexImm/tree/master/Data/
 JLdata <- readxl::read_xlsx("Overall survival of ICB Clinic trials.xlsx")
 ##Cancer abbreviation organize
 JLdata$Cancer <- ifelse(JLdata$Cancer %in% "gastroeso-oesophageal juncton cancer","GOJC",JLdata$Cancer)
