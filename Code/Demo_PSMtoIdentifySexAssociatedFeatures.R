@@ -75,7 +75,7 @@ for(cancer in cancerNames){
   folder <- paste(cancer,"_",analysis,sep="")
   if (!file.exists(folder)) { dir.create(folder) }
   
-  Feature.result <- weight.test(data.dum, form, Feature.pri, is.continuous=TRUE,weight=ifelse(analysis=="gender","ATT","MW"),mirror.plot=FALSE, cancer, data.type= "Feature", outdir=paste(scripts.dir, "/",cancer,"_",analysis,sep=""),perm=FALSE)
+  Feature.result <- weight.test(data.dum, form, Feature.pri, is.continuous=TRUE,weight=ifelse(analysis=="gender","MW","ATT"),mirror.plot=FALSE, cancer, data.type= "Feature", outdir=paste(scripts.dir, "/",cancer,"_",analysis,sep=""),perm=FALSE)
   
   sum.Immune <- summarize.p(Feature.pri, Feature.result, print=TRUE)
   summarize.p(Feature.pri, Feature.result, print=TRUE, cutoff=0.05)
